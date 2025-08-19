@@ -1,0 +1,3 @@
+github.com/caddyserver/caddy/v2 v2.7.6/go.mod h1:JCiwFMnRWjk8lOa7po0wM/75kwd38ccJPMSrXvQCMQ0=
+github.com/lum8rjack/go-ja4h v0.0.0-20250606032308-3a989c6635be h1:dVIND0nXGXPQnFZYrMXT6CxHhBYhTPMm0GFqcmfaIC4=
+github.com/lum8rjack/go-ja4h v0.0.0-20250606032308-3a989c6635be/go.mod h1:q68TUR45WDa2r3yU4aO6WgxfCc0Vj1qtRaKaRE3yMLM=

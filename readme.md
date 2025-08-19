@@ -64,7 +64,7 @@ route {
 }
 
 route {
-    ja4_placeholder
+    ja4_placeholdere
     respond "Hello World"
 }
 ```
